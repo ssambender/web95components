@@ -3,7 +3,7 @@
 
 Windows 95 themed web components in vanilla JS
 
-![Demo screenshot](https://github.com/ssambender/web95components/blob/main/demoScreenshot.png?raw=true)
+![Demo screenshot](https://github.com/ssambender/web95components/blob/main/images/demoScreenshot.png?raw=true)
 
 ## Setup
 
@@ -13,7 +13,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ## Component usage
 
 ⠀
-![Window screenshot](https://github.com/ssambender/web95components/blob/main/windowScreenshot.png?raw=true)
+![Window screenshot](https://github.com/ssambender/web95components/blob/main/images/windowScreenshot.png?raw=true)
 
 #### Window - Moveable popup window container 
 
@@ -29,7 +29,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-![Taskbar screenshot](https://github.com/ssambender/web95components/blob/main/taskbarScreenshot.png?raw=true)
+![Taskbar screenshot](https://github.com/ssambender/web95components/blob/main/images/taskbarScreenshot.png?raw=true)
 
 #### Taskbar - Footer that can contain buttons 
 
@@ -42,7 +42,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-![Website screenshot](https://github.com/ssambender/web95components/blob/main/websiteScreenshot.png?raw=true)
+![Website screenshot](https://github.com/ssambender/web95components/blob/main/images/websiteScreenshot.png?raw=true)
 
 #### Website - Searchable iframe that can be contained in a <web95-window>
 
@@ -53,7 +53,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-![Email screenshot](https://github.com/ssambender/web95components/blob/main/emailScreenshot.png?raw=true)
+![Email screenshot](https://github.com/ssambender/web95components/blob/main/images/emailScreenshot.png?raw=true)
 
 #### Email - Form that can be filled out and sent as email contained in a <web95-window>
 
@@ -68,7 +68,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-![Button screenshot](https://github.com/ssambender/web95components/blob/main/buttonScreenshot.png?raw=true)
+![Button screenshot](https://github.com/ssambender/web95components/blob/main/images/buttonScreenshot.png?raw=true)
 
 #### Button - Just a button, can be used to directly call functions
 
@@ -85,7 +85,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
   ---  
 ⠀
 
-![Shortcut screenshot](https://github.com/ssambender/web95components/blob/main/shortcutScreenshot.png?raw=true)
+![Shortcut screenshot](https://github.com/ssambender/web95components/blob/main/images/shortcutScreenshot.png?raw=true)
 
 #### Shortcut - Desktop icon style <a> icon 
 
@@ -99,7 +99,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-![Game screenshot](https://github.com/ssambender/web95components/blob/main/gameScreenshot.png?raw=true)
+![Game screenshot](https://github.com/ssambender/web95components/blob/main/images/gameScreenshot.png?raw=true)
 
 #### Game - Game iframe that can be contained in a <web95-window>
 
@@ -114,7 +114,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 
 ---  
 ⠀
-![Clouds class screenshot](https://github.com/ssambender/web95components/blob/main/cloudsScreenshot.png?raw=true)
+![Clouds class screenshot](https://github.com/ssambender/web95components/blob/main/images/cloudsScreenshot.png?raw=true)
 
 #### Clouds (class) - Applys the classic Windows clouds background to the div
 
