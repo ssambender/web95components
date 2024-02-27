@@ -3,7 +3,8 @@
 
 Windows 95 themed web components in vanilla JS
 
-(screenshot of full desktop here)
+![Demo screenshot](https://github.com/ssambender/web95components/blob/main/demoScreenshot.png?raw=true)
+
 ## Setup
 
 Download the ```web95-components.js``` file and add to project
@@ -12,7 +13,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ## Component usage
 
 ⠀
-(img)
+![Window screenshot](https://github.com/ssambender/web95components/blob/main/windowScreenshot.png?raw=true)
 
 #### Window - Moveable popup window container 
 
@@ -28,7 +29,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-(img)
+![Taskbar screenshot](https://github.com/ssambender/web95components/blob/main/taskbarScreenshot.png?raw=true)
 
 #### Taskbar - Footer that can contain buttons 
 
@@ -41,7 +42,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-(img)
+![Website screenshot](https://github.com/ssambender/web95components/blob/main/websiteScreenshot.png?raw=true)
 
 #### Website - Searchable iframe that can be contained in a <web95-window>
 
@@ -52,22 +53,22 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 ---  
 ⠀
 
-(img)
+![Email screenshot](https://github.com/ssambender/web95components/blob/main/emailScreenshot.png?raw=true)
 
 #### Email - Form that can be filled out and sent as email contained in a <web95-window>
 
 ```<web95-email  email-to=String  email-subject=String  email-body=String>  </web95-email>```
-  - *email-to:* autofills who the email is sent to (String)
+  - *email-to:* auto-fills who the email is sent to (String)
 
-  - *email-subject:* autofills the subject line (String)
+  - *email-subject:* auto-fills the subject line (String)
 
-  - *window-body:* autofills the email body message (String)
+  - *window-body:* auto-fills the email body message (String)
 
 
 ---  
 ⠀
 
-(img)
+![Button screenshot](https://github.com/ssambender/web95components/blob/main/buttonScreenshot.png?raw=true)
 
 #### Button - Just a button, can be used to directly call functions
 
@@ -84,7 +85,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
   ---  
 ⠀
 
-(img)
+![Shortcut screenshot](https://github.com/ssambender/web95components/blob/main/shortcutScreenshot.png?raw=true)
 
 #### Shortcut - Desktop icon style <a> icon 
 
@@ -93,10 +94,12 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 
   - *click-func:* calls whatever function name is entered, no ( ) needed just the func name (String)
 
+  - *slotted content:* the text label of the shortcut under the icon (text)
+
 ---  
 ⠀
 
-(img)
+![Game screenshot](https://github.com/ssambender/web95components/blob/main/gameScreenshot.png?raw=true)
 
 #### Game - Game iframe that can be contained in a <web95-window>
 
@@ -111,6 +114,7 @@ Make sure to include ```<script type="module" src="web95-components.js"></script
 
 ---  
 ⠀
+![Clouds class screenshot](https://github.com/ssambender/web95components/blob/main/cloudsScreenshot.png?raw=true)
 
 #### Clouds (class) - Applys the classic Windows clouds background to the div
 
