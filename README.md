@@ -5,6 +5,10 @@ Windows 95 themed web components in vanilla JS
 
 ![Demo screenshot](https://github.com/ssambender/web95components/blob/main/images/demoScreenshot.png?raw=true)
 
+### DEMO: https://sambender.net/projects/web95demo/index.html
+
+___
+
 ## Setup
 
 Download the ```web95-components.js``` file and add to project
